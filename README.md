@@ -1,4 +1,4 @@
-- 👋 Hola, soy @GonzaloPJdev
+- 👋 Hola, soy Gonzalo Pulleiro
 - 👀🧑‍💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), en IES San Clemente (Santiago de Compostela, A Coruña).
 - 📫 Me puedes contactar en: gonzalopulleirojuncal@gmail.com
 - 👨‍🎓 LinkedIn [Gonzalo Pulleiro](https://www.linkedin.com/in/gonzalo-pulleiro/) 
