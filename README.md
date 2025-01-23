@@ -1,5 +1,5 @@
 - 👋 Hola, soy Gonzalo Pulleiro
-- 👀🧑‍💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), en IES San Clemente (Santiago de Compostela, A Coruña).
+- 👀🧑‍💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 - 📫 Me puedes contactar en: gonzalopju@gmail.com
 - 👨‍🎓 LinkedIn [Gonzalo Pulleiro](https://www.linkedin.com/in/gonzalo-pulleiro/) 
 - 💫 Muchas gracias por visitar mi perfil en github!
